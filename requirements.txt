@@ -1,0 +1,8 @@
+keras
+matplotlib
+numpy
+opencv_python_headless
+opencv-python-headless
+pandas
+scikit_image
+tensorflow-cpu
